@@ -6,5 +6,7 @@ const toggleSub = () => {
   sub.style.display = sub.style.display === "none" ? "block" : "none";
   title.style.display = title.style.display === "none" ? "block" : "none";
 };
-
+const hideSub = () => {
+  sub.style.display = "none";
+};
 btn.addEventListener("click", toggleSub);
