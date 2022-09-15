@@ -1,3 +1,4 @@
-sdgdsfgdgfgdfsgdefaeswfdasfdg;
-//sdifabasikefdswoeibfaweubob
-checkeateSERFF();
+function CheckeateEsto() {
+  console.log("Esto");
+}
+CheckeateEsto();
