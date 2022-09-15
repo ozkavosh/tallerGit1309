@@ -1,1 +1,4 @@
-console.log("nuevo parche");
+function CheckeateEsto() {
+  console.log("Esto");
+}
+CheckeateEsto();
